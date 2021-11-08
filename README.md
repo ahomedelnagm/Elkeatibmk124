@@ -1,7 +1,7 @@
 <h1 align="center">MUSIC 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
+#### POWERED BY [MARSHALX TGCALLS](https://github.com/ahomedelnagm/Elkeatibmk124)
 
 <p align="center">
   <img src="https://media.giphy.com/media/naSgH6R3RHNi8/giphy.gif">
