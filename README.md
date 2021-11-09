@@ -24,7 +24,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ninja1120/ahmed)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ahomedelnagm/Elkeatibmk124)
 
 Get pyrogram (p)  `SESSION` from here:
 
