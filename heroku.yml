@@ -1,3 +1,4 @@
 build:
   docker:
+  run:
     worker: Dockerfile
