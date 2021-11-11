@@ -1,1 +1,1 @@
-worker:DaisyXMusic
+worker: python3 -m DaisyXMusic
